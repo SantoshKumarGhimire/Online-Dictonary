@@ -1,0 +1,97 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 19, 2016, 5:36:54 PM
+    Author     : Santosh
+*/
+body{
+    margin: 0;
+    background-color:#BBDEFB;
+
+}
+h1{
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+    background-color: #00838F;
+    color: #ffffff;
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+}
+#search{
+    text-align: center;
+    background-color: #0097A7;
+    padding: 10px;
+    font-size: 32px;
+    color: #ffffff;
+    position: fixed;
+    top: 56px;
+    width: 100%;
+
+}
+#message1{
+    color: red;
+}
+
+
+
+#message2{
+    text-align: center;
+    margin: 0;
+    padding: 5px;
+    color: red;
+    font-size: 22px;
+}
+#title{
+    text-transform: capitalize;
+    text-decoration: underline;
+    color: red;
+    font-size: 32px;
+    margin: 10px;
+    padding: 5px;
+
+}
+
+#mess_result{
+    color: black;
+    font-size: 16px;
+    float: left;
+    padding-top: 121px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+.listObjectShow{
+    color: #000;
+    background-color: #90CAF9;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    width: auto;
+    font-size: 18px;
+
+}
+#result{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+#footer{
+    color: white;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    padding: 10px;
+    background-color:  #00838F;
+
+}
+
+
+
+
+
